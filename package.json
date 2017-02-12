@@ -1,6 +1,6 @@
 {
   "name": "get-current-tab-url",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Gets the url of the current tab when run from a chrome extension",
   "main": "index.js",
   "author": "Riley Tomasek",
